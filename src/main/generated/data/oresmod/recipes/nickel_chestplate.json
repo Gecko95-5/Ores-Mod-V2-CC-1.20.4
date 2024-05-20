@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "item": "oresmod:nickel_ingot"
+    }
+  },
+  "pattern": [
+    "N N",
+    "NNN",
+    "NNN"
+  ],
+  "result": {
+    "item": "oresmod:nickel_chestplate"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "A": {
+      "item": "oresmod:aluminum_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:stone_pressure_plate"
+    }
+  },
+  "pattern": [
+    "A A",
+    "ASA",
+    "ARA"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:detector_rail"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "oresmod:aluminum_ingot"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "SSS"
+  ],
+  "result": {
+    "item": "minecraft:stonecutter"
+  }
+}

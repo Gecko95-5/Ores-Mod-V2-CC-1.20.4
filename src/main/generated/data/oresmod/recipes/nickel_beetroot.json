@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:beetroot"
+    },
+    "N": {
+      "item": "oresmod:nickel_nugget"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NBN",
+    "NNN"
+  ],
+  "result": {
+    "item": "oresmod:nickel_beetroot"
+  }
+}

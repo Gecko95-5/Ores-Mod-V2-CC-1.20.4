@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "oresmod:tungsten_nugget"
+    },
+    "T": {
+      "item": "oresmod:titanium_ingot"
+    }
+  },
+  "pattern": [
+    " N ",
+    "NTN",
+    " N "
+  ],
+  "result": {
+    "item": "oresmod:titanium_alloy_scrap"
+  }
+}

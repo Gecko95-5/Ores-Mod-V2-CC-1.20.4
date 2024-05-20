@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "oresmod:end_ite_block"
+    },
+    "I": {
+      "item": "oresmod:powdered_salt"
+    }
+  },
+  "pattern": [
+    "IB",
+    "BI"
+  ],
+  "result": {
+    "count": 4,
+    "item": "oresmod:light_end_ite_block"
+  }
+}

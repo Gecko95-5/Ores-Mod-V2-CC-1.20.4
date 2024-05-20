@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "P": {
+      "item": "oresmod:platinum_scrap"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PAA",
+    "AA "
+  ],
+  "result": {
+    "item": "oresmod:platinum_ingot"
+  }
+}
